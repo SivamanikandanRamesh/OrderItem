@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Order_Item\\Order_Item\\Order_Item.csproj": {}
+    "C:\\Users\\Admin\\OrderItem\\Order_Item\\Order_Item\\Order_Item.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Order_Item\\Order_Item\\Order_Item.csproj": {
+    "C:\\Users\\Admin\\OrderItem\\Order_Item\\Order_Item\\Order_Item.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Order_Item\\Order_Item\\Order_Item.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OrderItem\\Order_Item\\Order_Item\\Order_Item.csproj",
         "projectName": "Order_Item",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Order_Item\\Order_Item\\Order_Item.csproj",
+        "projectPath": "C:\\Users\\Admin\\OrderItem\\Order_Item\\Order_Item\\Order_Item.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Order_Item\\Order_Item\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OrderItem\\Order_Item\\Order_Item\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
